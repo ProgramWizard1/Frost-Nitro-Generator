@@ -49,4 +49,4 @@ with open("Nitro Codes.txt") as file:
 
 
 
-print("\nFinished generating. Please see Valid Codes.txt to see if there are any valid codes. If there are none. try again.")
+print("\n Finished generating. Please see Valid Codes.txt to see if there are any valid codes. If there are none, try again.")
