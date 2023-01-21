@@ -16,7 +16,7 @@ time.sleep(0.3)
 print(" ")
 time.sleep(0.2)
 
-num = int(input('Input How Many Codes to Generate and Check: '))
+num = int(input('Input how many codes to generate: '))
 
 with open("Nitro Codes.txt", "w", encoding='utf-8') as file:
     print("Your nitro codes are being generated, be patient if you entered the high number!")
